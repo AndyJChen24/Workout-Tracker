@@ -5,8 +5,6 @@ const Workout = require("../models/workout.js");
 router.post("/api/workouts", ({body}, res) => {
     Workout.create({body})
       .then(dbWorkout => {
-        console.log(dbWorkout)
-        console.log(body)
         res.json(dbWorkout);
       })
       .catch(err => {
