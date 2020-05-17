@@ -48,14 +48,14 @@ Load the app at [http://localhost:3000](http://localhost:3000).
 ## Demo
 A demo of the app can be found here:
 
-[https://cangaroo.herokuapp.com/](https://cangaroo.herokuapp.com/)
+[https://fast-waters-35393.herokuapp.com/](https://fast-waters-35393.herokuapp.com/)
 
 ## Technologies
 * Node.js
 * Express.js
 * Mongoose
 
-![Workout Tracker]("./public/images/fitnessgraph.PNG)
+![Workout Tracker](https://github.com/AndyJChen24/Workout-Tracker/blob/master/public/images/fitnessgraph.PNG)
 
 ## Authors
 
